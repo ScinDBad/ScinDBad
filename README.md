@@ -54,19 +54,19 @@ I am a Data Analyst with a strong background in Electronics and Technical Educat
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajvinuez/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ajvinuez/" style="height: 22px;" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ajvinuez/" style="height: 23px;" />
   </a>
   
   <a href="mailto:ajvinuez@outlook.com">
-    <img src="https://img.shields.io/badge/-Outlook-FFFFFF?style=for-the-badge&logo=Microsoft-Outlook&logoColor=0078D4&link=mailto:ajvinuez@outlook.com" style="height: 22px;" />
+    <img src="https://img.shields.io/badge/-Outlook-FFFFFF?style=for-the-badge&logo=Microsoft-Outlook&logoColor=0078D4&link=mailto:ajvinuez@outlook.com" style="height: 23px;" />
   </a>
 
   <a href="https://www.kaggle.com/adrianvinueza">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianvinueza" style="height: 22px;" />
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianvinueza" style="height: 23px;" />
   </a>
   
   <a href="https://github.com/ScinDBad?tab=repositories">
-    <img src="https://img.shields.io/badge/-REPOSITORIES-black?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/ScinDBad?tab=repositories" style="height: 22px;" />
+    <img src="https://img.shields.io/badge/-REPOSITORIES-black?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/ScinDBad?tab=repositories" style="height: 23px;" />
   </a>
 </p>
 
