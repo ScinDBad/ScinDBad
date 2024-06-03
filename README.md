@@ -66,7 +66,7 @@ I am a Data Analyst with a strong background in Electronics and Technical Educat
   </a>
   
   <a href="https://github.com/ScinDBad?tab=repositories">
-    <img src="https://img.shields.io/badge/-REPOSITORIES-black?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/ScinDBad?tab=repositories" style="height: 23px;" />
+    <img src="https://img.shields.io/badge/-REPOSITORIES-black?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/ScinDBad?tab=repositories" style="height: 21px;" />
   </a>
 </p>
 
