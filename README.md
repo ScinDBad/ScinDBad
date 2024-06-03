@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   
   <img src="https://img.shields.io/badge/-SciSpace-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Bing%20Copilot-0044FF?style=for-the-badge&logo=Bing&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bing%20Copilot-075DD1?style=for-the-badge&logo=Bing&logoColor=white" />
 </p>
 
 
