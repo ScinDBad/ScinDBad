@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://your-profile-image-url.com" alt="Profile Picture" width="200" />
-</p>
 <h2 align="center">¡Hola! Soy Adrián 👋</h2>
 <p align="center">
   Analista de Datos, Ingeniero Electrónico y Pedagogo técnico apasionado por la data y la tecnología. 
