@@ -1,7 +1,7 @@
-<h1 align="center">Bienvenido! 👋</h1>
+Hi there!
 <p align="center">
   Analista de Datos, Ingeniero Electrónico y Pedagogo técnico apasionado por la data y la tecnología. 
-  Explorando la intersección de datos, educación y electrónica para crear soluciones innovadoras.
+      Explorando la intersección de datos, educación y electrónica para crear soluciones innovadoras.
   
 👨‍💻 Sobre Mí
 Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica. Mi enfoque está en el análisis exploratorio, estadístico, visualización y Data Story Telling. Me apasiona transformar datos en información útil y accionable.
