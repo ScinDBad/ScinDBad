@@ -1,4 +1,4 @@
-<h2 align="left">Hi there!</h2>
+<h1 align="left">Hi there!</h1>
 <p align="left">
   Join me in uncovering hidden stories within data!
 </p>
