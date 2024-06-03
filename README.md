@@ -3,6 +3,7 @@
   Acompáñame a desentrañar historias ocultas en los datos. Creyente firme en el poder de la información para transformar el mundo.
 </p>
 👨‍💻 Sobre Mí
+
 Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica. Mi enfoque está en el análisis exploratorio, estadístico, visualización y Data Story Telling. Me apasiona transformar datos en información útil y accionable, especialmente para predecir hallazgos.
 
 🛠️ Tecnologías y Herramientas
