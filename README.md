@@ -1,6 +1,6 @@
-<h2 align="center">¡Hola! Soy Adrián 👋</h2>
-<p align="center">
-  Acompáñame a desentrañar historias ocultas en los datos. Creyente firme en el poder de la información para transformar el mundo.
+<h2 align="left">¡Hola! Soy Adrián 👋</h2>
+<p align="left">
+  Acompáñame a desentrañar historias ocultas en los datos. Creyente de que la información tiene el poder de transformar el mundo.
 </p>
 
 Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica. Mi enfoque está en el análisis exploratorio, estadístico, visualización y Data Story Telling. Me apasiona transformar datos en información útil y accionable, especialmente para predecir hallazgos.
