@@ -27,6 +27,9 @@
   <img src="https://developers.google.com/static/idx/images/icon-192.png" alt="Project IDX Badge" style="vertical-align: middle;" height="28">
 
 </p>
+<a href="https://developers.google.com/static/idx/images/icon-192.png">
+  <img src="https://developers.google.com/static/idx/images/icon-192.png" alt="Project IDX" style="vertical-align: middle;" height="28">
+</a>
 
 
 I am a Data Analyst with a strong background in Electronic Engineering. My focus is on exploratory analysis, statistical analysis, visualization, and Data Storytelling. I am passionate about transforming data into useful and actionable information, especially for predicting insights.
