@@ -1,18 +1,7 @@
 <h1 align="center">¡Hola! Soy Adrián 👋</h1>
 <p align="center">
   Analista de Datos, Ingeniero Electrónico y Pedagogo técnico apasionado por la data y la tecnología. Explorando la intersección de datos, educación y electrónica para crear soluciones innovadoras.
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ajvinuez/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/tu-usuario/" />
-  </a>
-  <a href="ajvinuez@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tu-email@ejemplo.com" />
-  </a>
-  <a href="https://www.kaggle.com/adrianvinueza">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianvinueza" />
-  </a>
-</p>
+  
 👨‍💻 Sobre Mí
 Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica. Mi enfoque está en el análisis exploratorio, estadístico, visualización y Data Story Telling. Me apasiona transformar datos en información útil y accionable.
 
