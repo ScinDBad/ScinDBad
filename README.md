@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-Project%20IDX-00C4B3?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft-Office&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
   <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white" />
   <img src="https://img.shields.io/badge/-Matplotlib-013243?style=for-the-badge&logo=Matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
