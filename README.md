@@ -15,6 +15,7 @@ Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica.
   <img src="https://img.shields.io/badge/-Project%20IDX-00C4B3?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
 </p>
 📚 Educación
+
 - Especialización en Análisis de Datos - [TripleTen](https://tripleten.com/)
 - Ingeniería en Electrónica y Telecomunicaciones - [ESPOL](https://www.espol.edu.ec/)
 - Maestría en Pedagogía con mención en Formación Técnica y Profesional - [UBE] (https://www.ube.edu.ec/)
