@@ -61,5 +61,5 @@ Especialización en Análisis de Datos - TripleTen
 </a>
 📈 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ScinDBad&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </p>
