@@ -32,7 +32,6 @@
 </p>
 
 
-
 I am a Data Analyst with a strong background in Electronic Engineering. My focus is on exploratory analysis, statistical analysis, visualization, and Data Storytelling. I am passionate about transforming data into useful and actionable information, especially for predicting insights.
 
 
@@ -42,14 +41,12 @@ I am a Data Analyst with a strong background in Electronic Engineering. My focus
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIcRLAUc1AEd0t5yzZYBkv9umyKDad8EHeg&s" width="32" alt="Logo3" />  MEd. Technical and Vocational Education Training - UBE
 </p>
 
-
-🌐 Contacto
 <p align="center">
   <a href="https://www.linkedin.com/in/ajvinuez/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ajvinuez/" />
   </a>
   <a href="mailto:ajvinuez@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ajvinuez@outlook.com" />
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Outlook&logoColor=white&link=mailto:ajvinuez@outlook.com" />
   </a>
   <a href="https://www.kaggle.com/adrianvinueza">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianvinueza" />
