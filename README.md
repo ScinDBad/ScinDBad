@@ -47,8 +47,8 @@ I am a Data Analyst with a strong background in Electronics and Technical Educat
   </a>
   <br>
   <div align="center" style=color: #FFFFFF;">
-  <strong style="color: #FF5733;">Data Analyst</strong><br>
-  </div>
+  <strong style="color: #FF5733;">Data Analyst</strong>
+  </div><br>
   Eng. Electronics and Telecommunications<br>
   MEd. Technical and Vocational Education Training
 </p>
