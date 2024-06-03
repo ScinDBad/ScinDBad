@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-8CAAE6?style=for-the-badge&logo=NumPy&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-NumPy-4D77CF?style=for-the-badge&logo=NumPy&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-SciPy-0748b0?style=for-the-badge&logo=SciPy&logoColor=white" />
   
   <img src="https://img.shields.io/badge/-Matplotlib-013243?style=for-the-badge&logo=Matplotlib&logoColor=white" /> 
