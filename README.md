@@ -65,14 +65,15 @@ I am a Data Analyst with a strong background in Electronics and Technical Educat
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianvinueza" />
   </a>
   
+  <a href="https://github.com/ScinDBad?tab=repositories">
+    <img src="https://img.shields.io/badge/-REPOS-black?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/ScinDBad?tab=repositories" />
+  </a>
 </p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ScinDBad&show_icons=true&theme=dracula&hide_title=true&hide_border=true&bg_color=0D1116&icon_color=CCCCCC" /><br>
   Feel free to browse my work and reach out for collaborations or questions.
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ScinDBad&hide_title=true&hide_border=true&bg_color=0D1116&icon_color=CCCCCC" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ScinDBad&hide_title=true&hide_border=true&bg_color=0D1116&icon_color=CCCCCC&hide_rank=true&line_height=24" />
-</div>
+
