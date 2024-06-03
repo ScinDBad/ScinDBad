@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://your-profile-image-url.com" alt="Profile Picture" width="200" />
 </p>
-<h1 align="center">¡Hola! Soy Adrián 👋</h1>
+<h2 align="center">¡Hola! Soy Adrián 👋</h2>
 <p align="center">
   Analista de Datos, Ingeniero Electrónico y Pedagogo técnico apasionado por la data y la tecnología. 
   Explorando la intersección de datos, educación y electrónica para crear soluciones innovadoras.
@@ -33,7 +33,6 @@ Especialización en Análisis de Datos - TripleTen
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianvinueza" />
   </a>
 </p>
-📈 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ScinDBad&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </p>
