@@ -53,6 +53,7 @@ I am a Data Analyst with a strong background in Electronic Engineering. My focus
   <a href="https://www.kaggle.com/adrianvinueza">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianvinueza" />
   </a>
+  
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ScinDBad&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
