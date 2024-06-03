@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<p align="center">
-  <img src="https://your-profile-image-url.com" alt="Profile Picture" width="200" />
-</p>
 <h1 align="center">¡Hola! Soy Adrián 👋</h1>
 <p align="center">
   Analista de Datos, Ingeniero Electrónico y Pedagogo técnico apasionado por la data y la tecnología. Explorando la intersección de datos, educación y electrónica para crear soluciones innovadoras.
