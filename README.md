@@ -17,6 +17,9 @@
   <a href="mailto:tu-email@ejemplo.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tu-email@ejemplo.com" />
   </a>
+  <a href="https://www.kaggle.com/adrianvinueza">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianvinueza" />
+  </a>
 </p>
 👨‍💻 Sobre Mí
 Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica. Mi enfoque está en el análisis predictivo, la visualización de datos y el desarrollo de sistemas basados en IoT. Me apasiona transformar datos en información útil y accionable.
@@ -34,6 +37,15 @@ Ver Proyecto
 Descripción: Creación de un dashboard interactivo para visualizar datos climáticos globales.
 Tecnologías: R, Shiny, ggplot2
 Ver Proyecto
+🛠️ Tecnologías y Herramientas
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=SQLite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Project%20IDX-00C4B3?style=flat-square&logo=Google%20Cloud&logoColor=white" />
+</p>
 📚 Educación
 Ingeniería Electrónica - [Nombre de la Universidad]
 Especialización en Ciencia de Datos - [Nombre de la Institución]
@@ -46,6 +58,9 @@ Especialización en Ciencia de Datos - [Nombre de la Institución]
 </a>
 <a href="mailto:tu-email@ejemplo.com">
   <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tu-email@ejemplo.com" />
+</a>
+<a href="https://www.kaggle.com/adrianvinueza">
+  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianvinueza" />
 </a>
 📈 Estadísticas de GitHub
 <p align="center">
