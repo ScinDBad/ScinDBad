@@ -49,7 +49,7 @@ I am a Data Analyst with a strong background in Electronics and Technical Educat
   <strong>DATA ANALYST</strong><br>
   Eng. Electronics and Telecommunications<br>
   MEd. Technical and Vocational Education Training<br>
-  Scientific Article: AI in Electricity Technology Teaching 
+  Scientific Article: AI in Electricity Technology Teaching<br>
   https://doi.org/10.33262/exploradordigital.v7i4.2778
 </p>
 
