@@ -37,6 +37,13 @@ I am a Data Analyst with a strong background in Electronic Engineering. My focus
 
 📚 Training
 
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQhOxCbDgjJ74d_KCtNBNcje0EluubZntQQ&s" width="100" alt="Logo1" />
+  <img src="https://media.licdn.com/dms/image/D4E0BAQFyHvObWMpxmQ/company-logo_200_200/0/1701282557609/espol_logo?e=2147483647&v=beta&t=DsZ6CNNa8a01dHMniRkWqnfzX3-3lpfn4YyUAjprwJs" width="100" alt="Logo2" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIcRLAUc1AEd0t5yzZYBkv9umyKDad8EHeg&s" width="100" alt="Logo3" />
+</p>
+
+
 Data Analyst - TripleTen
 
 Eng. Electronics and Telecommunications - ESPOL
