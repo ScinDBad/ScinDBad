@@ -1,7 +1,6 @@
 <h1 align="center">Bienvenido! 👋</h1>
 <p align="center">
   Analista de Datos, Ingeniero Electrónico y Pedagogo técnico apasionado por la data y la tecnología. 
-  
   Explorando la intersección de datos, educación y electrónica para crear soluciones innovadoras.
   
 👨‍💻 Sobre Mí
@@ -20,6 +19,7 @@ Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica.
 Ingeniería en Electrónica y Telecomunicaciones - ESPOL
 
 Especialización en Análisis de Datos - TripleTen
+
 🌐 Conectemos
 <a href="https://www.linkedin.com/in/tu-usuario/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ajvinuez/" />
@@ -30,7 +30,6 @@ Especialización en Análisis de Datos - TripleTen
 <a href="https://www.kaggle.com/adrianvinueza">
   <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianvinueza" />
 </a>
-📈 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ScinDBad&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </p>
