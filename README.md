@@ -2,8 +2,6 @@
 <p align="left">
   Join me in uncovering hidden stories within data!
 </p>
-
-I am a Data Analyst with a strong background in Electronic Engineering. My focus is on exploratory analysis, statistical analysis, visualization, and Data Storytelling. I am passionate about transforming data into useful and actionable information, especially for predicting insights.
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
@@ -11,13 +9,22 @@ I am a Data Analyst with a strong background in Electronic Engineering. My focus
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Project%20IDX-00C4B3?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft-Office&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-013243?style=for-the-badge&logo=Matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Seaborn-013243?style=for-the-badge&logo=Seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 </p>
-📚 Formación
+I am a Data Analyst with a strong background in Electronic Engineering. My focus is on exploratory analysis, statistical analysis, visualization, and Data Storytelling. I am passionate about transforming data into useful and actionable information, especially for predicting insights.
 
-- Especialización en Análisis de Datos - [TripleTen](https://tripleten.com/)
-- Ingeniería en Electrónica y Telecomunicaciones - [ESPOL](https://www.espol.edu.ec/)
-- Maestría en Pedagogía con mención en Formación Técnica y Profesional - [UBE] (https://www.ube.edu.ec/)
-  
+📚 Formación
+Especialización en Análisis de Datos - TripleTen
+Ingeniería en Electrónica y Telecomunicaciones - ESPOL
+Maestría en Pedagogía con mención en Formación Técnica y Profesional - UBE
 🌐 Contacto
 <p align="center">
   <a href="https://www.linkedin.com/in/ajvinuez/">
