@@ -37,8 +37,11 @@ I am a Data Analyst with a strong background in Electronic Engineering. My focus
 
 📚 Formación
 Especialización en Análisis de Datos - TripleTen
+
 Ingeniería en Electrónica y Telecomunicaciones - ESPOL
+
 Maestría en Pedagogía con mención en Formación Técnica y Profesional - UBE
+
 🌐 Contacto
 <p align="center">
   <a href="https://www.linkedin.com/in/ajvinuez/">
