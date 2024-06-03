@@ -36,13 +36,21 @@ I am a Data Analyst with a strong background in Electronics and Technical Educat
 
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQhOxCbDgjJ74d_KCtNBNcje0EluubZntQQ&s" width="35" alt="Logo1" />  
-  <img src="https://media.licdn.com/dms/image/D4E0BAQFyHvObWMpxmQ/company-logo_200_200/0/1701282557609/espol_logo?e=2147483647&v=beta&t=DsZ6CNNa8a01dHMniRkWqnfzX3-3lpfn4YyUAjprwJs" width="35" alt="Logo2" /> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIcRLAUc1AEd0t5yzZYBkv9umyKDad8EHeg&s" width="35" alt="Logo3" /><br>
+  <a href="https://tripleten.com/es-ecu/?from=us" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQhOxCbDgjJ74d_KCtNBNcje0EluubZntQQ&s" width="35" alt="Logo1" />
+  </a>
+  <a href="https://www.espol.edu.ec/es" target="_blank">
+    <img src="https://media.licdn.com/dms/image/D4E0BAQFyHvObWMpxmQ/company-logo_200_200/0/1701282557609/espol_logo?e=2147483647&v=beta&t=DsZ6CNNa8a01dHMniRkWqnfzX3-3lpfn4YyUAjprwJs" width="35" alt="Logo2" />
+  </a>
+  <a href="https://ube.edu.ec/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIcRLAUc1AEd0t5yzZYBkv9umyKDad8EHeg&s" width="35" alt="Logo3" />
+  </a>
+  <br>
   <strong>Data Analyst</strong><br>
   Eng. Electronics and Telecommunications<br>
   MEd. Technical and Vocational Education Training
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajvinuez/">
