@@ -47,7 +47,7 @@ I am a Data Analyst with a strong background in Electronic Engineering. My focus
   </a>
   
   <a href="mailto:ajvinuez@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white&link=mailto:ajvinuez@outlook.com" />
+    <img src="https://img.shields.io/badge/-Email-FFFFFF?style=for-the-badge&logo=Microsoft-Outlook&logoColor=0078D4&link=mailto:ajvinuez@outlook.com" />
   </a>
 
   <a href="https://www.kaggle.com/adrianvinueza">
