@@ -3,27 +3,28 @@
   Join me in uncovering hidden stories within data!
 </p>
 
-
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
-[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
-[![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/index.html)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com/)
-[![Project IDX](https://img.shields.io/badge/-Project%20IDX-00C4B3?style=for-the-badge&logo=Google%20Cloud&logoColor=white)](https://cloud.google.com/solutions/digital-transformation/)
-[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)](https://numpy.org/)
-[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft-Office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
-[![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org/)
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=for-the-badge&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![Seaborn](https://img.shields.io/badge/-Seaborn-013243?style=for-the-badge&logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
-[![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white)](https://www.anaconda.com/)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
-[![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white)](https://colab.research.google.com/)
-[![SciSpace](https://img.shields.io/badge/-SciSpace-333333?style=for-the-badge)](#)
-[![Bing Copilot](https://img.shields.io/badge/-Bing%20Copilot-0044FF?style=for-the-badge&logo=Bing&logoColor=white)](#)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=SQLite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Project%20IDX-00C4B3?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft-Office&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-013243?style=for-the-badge&logo=Matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Seaborn-013243?style=for-the-badge&logo=Seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SciSpace-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Bing%20Copilot-0044FF?style=for-the-badge&logo=Bing&logoColor=white" />
+</p>
 
 
 I am a Data Analyst with a strong background in Electronic Engineering. My focus is on exploratory analysis, statistical analysis, visualization, and Data Storytelling. I am passionate about transforming data into useful and actionable information, especially for predicting insights.
