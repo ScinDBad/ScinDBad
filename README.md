@@ -15,14 +15,6 @@ Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica.
   <img src="https://img.shields.io/badge/-Project%20IDX-00C4B3?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
 </p>
 📚 Educación
-<p align="center">
-  <a href="https://www.espol.edu.ec/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ESPOL_logo.png/800px-ESPOL_logo.png" alt="ESPOL" height="50" />
-  </a>
-  <a href="https://tripleten.com/">
-    <img src="https://tripleten.com/favicon.ico" alt="TripleTen" height="50" />
-  </a>
-</p>
 - Especialización en Análisis de Datos - [TripleTen](https://tripleten.com/)
 - Ingeniería en Electrónica y Telecomunicaciones - [ESPOL](https://www.espol.edu.ec/)
 - Maestría en Pedagogía con mención en Formación Técnica y Profesional - [UBE] (https://www.ube.edu.ec/)
