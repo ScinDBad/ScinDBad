@@ -1,4 +1,4 @@
-<h2 align="left">¡Hola! Soy Adrián 👋</h2>
+<h2 align="left">Hi there!</h2>
 <p align="left">
   Join me in uncovering hidden stories within data!
 </p>
