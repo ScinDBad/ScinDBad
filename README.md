@@ -69,6 +69,16 @@ I am a Data Analyst with a strong background in Electronic Engineering. My focus
   </picture>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ScinDBad&show_icons=true&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ScinDBad&show_icons=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=ScinDBad&show_icons=true&theme=dark" alt="GitHub Stats">
+  </picture>
+  <br>
+  Feel free to browse my work and reach out for collaborations or questions.
+</div>
+
 
 
 
