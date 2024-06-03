@@ -65,7 +65,7 @@ I am a Data Analyst with a strong background in Electronic Engineering. My focus
     <picture >
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&icon_color=24292E&text_bold=false&hide_border=true&show_icons=true&card_width=50&&line_height=26theme=default&show_icons=true&hide_title=true">
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ScinDBad&icon_color=CCCCCC&text_bold=false&hide_border=true&show_icons=true&card_width=50&line_height=26&theme=react&show_icons=true&hide_title=true&bg_color=0D1116">
-      <img alt="1" src="https://github-readme-stats-sigma-five.vercel.app/api?username=uma-dev&icon_color=24292E&text_bold=false&hide_border=true&show_icons=true&card_width=50&&line_height=26theme=default&show_icons=true&hide_title=true">
+      <img alt="1" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ScinDBad&icon_color=24292E&text_bold=false&hide_border=true&show_icons=true&card_width=50&&line_height=26theme=default&show_icons=true&hide_title=true">
     </picture>
 </div></td>
 
