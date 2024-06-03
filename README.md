@@ -19,8 +19,8 @@ Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica.
 - Especialización en Análisis de Datos - [TripleTen](https://tripleten.com/)
 - Ingeniería en Electrónica y Telecomunicaciones - [ESPOL](https://www.espol.edu.ec/)
 - Maestría en Pedagogía con mención en Formación Técnica y Profesional - [UBE] (https://www.ube.edu.ec/)
+  
 🌐 Conectemos
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ajvinuez/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ajvinuez/" />
