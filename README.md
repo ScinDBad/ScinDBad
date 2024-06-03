@@ -15,8 +15,20 @@ Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica.
   <img src="https://img.shields.io/badge/-Project%20IDX-00C4B3?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
 </p>
 📚 Educación
-Ingeniería en Electrónica y Telecomunicaciones - ESPOL
-Especialización en Análisis de Datos - TripleTen
+<p align="center">
+  <a href="https://www.espol.edu.ec/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Logotipo_ESPOL.png/1200px-Logotipo_ESPOL.png" alt="ESPOL" height="50" />
+  </a>
+  <br>
+  Ingeniería en Electrónica y Telecomunicaciones - <a href="https://www.espol.edu.ec/">ESPOL</a>
+</p>
+<p align="center">
+  <a href="https://tripleten.com/">
+    <img src="https://avatars.githubusercontent.com/u/110621945?s=200&v=4" alt="TripleTen" height="50" />
+  </a>
+  <br>
+  Especialización en Análisis de Datos - <a href="https://tripleten.com/">TripleTen</a>
+</p>
 🌐 Conectemos
 <p align="center">
   <a href="https://www.linkedin.com/in/ajvinuez/">
