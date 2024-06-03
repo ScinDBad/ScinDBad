@@ -1,9 +1,9 @@
 <h2 align="center">¡Hola! Soy Adrián 👋</h2>
 <p align="center">
-  Analista de Datos, Ingeniero Electrónico y Pedagogo técnico apasionado por desentrañar historias ocultas en los datos. Creyente firme en el poder de la información para transformar el mundo.
+  Acompáñame a desentrañar historias ocultas en los datos. Creyente firme en el poder de la información para transformar el mundo.
 </p>
 👨‍💻 Sobre Mí
-Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica. Mi enfoque está en el análisis exploratorio, estadístico, visualización y Data Story Telling. Me apasiona transformar datos en información útil y accionable.
+Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica. Mi enfoque está en el análisis exploratorio, estadístico, visualización y Data Story Telling. Me apasiona transformar datos en información útil y accionable, especialmente para predecir hallazgos.
 
 🛠️ Tecnologías y Herramientas
 <p align="center">
@@ -23,8 +23,9 @@ Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica.
     <img src="https://tripleten.com/favicon.ico" alt="TripleTen" height="50" />
   </a>
 </p>
-- Ingeniería en Electrónica y Telecomunicaciones - [ESPOL](https://www.espol.edu.ec/)
 - Especialización en Análisis de Datos - [TripleTen](https://tripleten.com/)
+- Ingeniería en Electrónica y Telecomunicaciones - [ESPOL](https://www.espol.edu.ec/)
+- Maestría en Pedagogía con mención en Formación Técnica y Profesional - [UBE] (https://www.ube.edu.ec/)
 🌐 Conectemos
 <p align="center">
   <a href="https://www.linkedin.com/in/ajvinuez/">
