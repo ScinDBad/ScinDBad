@@ -35,12 +35,13 @@
 
 I am a Data Analyst with a strong background in Electronic Engineering. My focus is on exploratory analysis, statistical analysis, visualization, and Data Storytelling. I am passionate about transforming data into useful and actionable information, especially for predicting insights.
 
-📚 Formación
-Especialización en Análisis de Datos - TripleTen
+📚 Training
 
-Ingeniería en Electrónica y Telecomunicaciones - ESPOL
+Data Analyst - TripleTen
 
-Maestría en Pedagogía con mención en Formación Técnica y Profesional - UBE
+Eng. Electronics and Telecommunications - ESPOL
+
+MEd. Technical and Vocational Education Training - UBE
 
 🌐 Contacto
 <p align="center">
