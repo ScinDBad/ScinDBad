@@ -32,7 +32,7 @@
 </p>
 
 
-I am a Data Analyst with a strong background in Electronic Engineering and experience in Technical Education. My focus is on exploratory analysis, statistics, visualization and Data Storytelling. I'm deeply commited to converting data into valuable and actionable information, especially for predicting insights.
+I am a Data Analyst with a strong background in Electronics and experience in Technical Education. My focus is on exploratory analysis, statistics and Data Storytelling. I'm deeply commited to converting data into valuable and actionable information, especially for predicting insights.
 
 
 <p align="center">
