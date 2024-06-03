@@ -24,12 +24,10 @@
   <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white" />
   <img src="https://img.shields.io/badge/-SciSpace-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Bing%20Copilot-0044FF?style=for-the-badge&logo=Bing&logoColor=white" />
-  <img src="https://developers.google.com/static/idx/images/icon-192.png" alt="Project IDX Badge" style="vertical-align: middle;" height="28">
 
 </p>
-<a href="https://developers.google.com/static/idx/images/icon-192.png">
-  <img src="https://developers.google.com/static/idx/images/icon-192.png" alt="Project IDX" style="vertical-align: middle;" height="28">
-</a>
+<div style="display:inline-block;font-size:14px;padding:0.25em 0.6em;border-radius:0.25em;background-color:#4CAF50;color:#fff;"><img src="URL_DEL_LOGO" alt="Logo" style="vertical-align:middle;margin-right:0.5em;">Texto de la etiqueta</div>
+
 
 
 I am a Data Analyst with a strong background in Electronic Engineering. My focus is on exploratory analysis, statistical analysis, visualization, and Data Storytelling. I am passionate about transforming data into useful and actionable information, especially for predicting insights.
