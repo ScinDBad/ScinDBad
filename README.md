@@ -35,7 +35,6 @@
 
 I am a Data Analyst with a strong background in Electronic Engineering. My focus is on exploratory analysis, statistical analysis, visualization, and Data Storytelling. I am passionate about transforming data into useful and actionable information, especially for predicting insights.
 
-📚 Training
 
 <p align="left">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQhOxCbDgjJ74d_KCtNBNcje0EluubZntQQ&s" width="32" alt="Logo1" /> Data Analyst - TripleTen<br>
@@ -43,14 +42,6 @@ I am a Data Analyst with a strong background in Electronic Engineering. My focus
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIcRLAUc1AEd0t5yzZYBkv9umyKDad8EHeg&s" width="32" alt="Logo3" /> MEd. Technical and Vocational Education Training - UBE
 </p>
 
-
-
-
-Data Analyst - TripleTen
-
-Eng. Electronics and Telecommunications - ESPOL
-
-MEd. Technical and Vocational Education Training - UBE
 
 🌐 Contacto
 <p align="center">
