@@ -4,31 +4,31 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python" alt="python" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-4D77CF?style=for-the-badge&logo=NumPy&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-SciPy-0748b0?style=for-the-badge&logo=SciPy&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-yellow?style=flat-square&logo=python" alt="python" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-4D77CF?style=flat-square&logo=NumPy&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-SciPy-0748b0?style=flat-square&logo=SciPy&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/-Matplotlib-013243?style=for-the-badge&logo=Matplotlib&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Seaborn-5C7DA2?style=for-the-badge&logo=Seaborn&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-013243?style=flat-square&logo=Matplotlib&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Seaborn-5C7DA2?style=flat-square&logo=Seaborn&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=Microsoft%20Office&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Project%20IDX-8964E8?style=for-the-badge&logo=Google%20Cloud&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=Google%20Colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Project%20IDX-8964E8?style=flat-square&logo=Google%20Cloud&logoColor=white" /> 
 
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/-SciSpace-FFFFFF?style=for-the-badge&logoColor=black&labelColor=FF4500" /> 
-  <img src="https://img.shields.io/badge/-Blackbox-000000?style=for-the-badge&logo=Google&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bing%20Copilot-075DD1?style=for-the-badge&logo=Bing&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SciSpace-FFFFFF?style=flat-square&logoColor=black&labelColor=FF4500" /> 
+  <img src="https://img.shields.io/badge/-Blackbox-000000?style=flat-square&logo=Google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bing%20Copilot-075DD1?style=flat-square&logo=Bing&logoColor=white" />
 </p>
 
 
