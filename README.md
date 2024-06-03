@@ -39,9 +39,9 @@ I am a Data Analyst with a strong background in Electronic Engineering. My focus
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQhOxCbDgjJ74d_KCtNBNcje0EluubZntQQ&s" width="35" alt="Logo1" />  
   <img src="https://media.licdn.com/dms/image/D4E0BAQFyHvObWMpxmQ/company-logo_200_200/0/1701282557609/espol_logo?e=2147483647&v=beta&t=DsZ6CNNa8a01dHMniRkWqnfzX3-3lpfn4YyUAjprwJs" width="35" alt="Logo2" /> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIcRLAUc1AEd0t5yzZYBkv9umyKDad8EHeg&s" width="35" alt="Logo3" /><br>
-  Data Analyst - TripleTen<br>
-  Eng. Electronics and Telecommunications - ESPOL<br>
-  MEd. Technical and Vocational Education Training - UBE
+  <strong>Data Analyst</strong><br>
+  Eng. Electronics and Telecommunications<br>
+  MEd. Technical and Vocational Education Training
 </p>
 
 <p align="center">
