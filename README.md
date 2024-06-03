@@ -58,6 +58,6 @@ I am a Data Analyst with a strong background in Electronic Engineering. My focus
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ScinDBad&show_icons=true&theme=dark&hide_title=true&hide_border=true&bg_color=0D1116&icon_color=CCCCCC" /><br>
-  <img alt="1" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ScinDBad&icon_color=24292E&text_bold=false&hide_border=true&show_icons=true&card_width=50&&line_height=26theme=default&show_icons=true&hide_title=true">
+  <img alt="2" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ScinDBad&icon_color=24292E&text_bold=false&hide_border=true&show_icons=true&card_width=50&&line_height=26theme=default&show_icons=true&hide_title=true">
   Feel free to browse my work and reach out for collaborations or questions.
 </div>
