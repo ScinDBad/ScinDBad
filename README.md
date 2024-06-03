@@ -58,4 +58,4 @@ I am a Data Analyst with a strong background in Electronic Engineering. My focus
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ScinDBad&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </p>
-¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y no dudes en contactarme para cualquier colaboración o consulta.
+Thanks for checking out my profile! Browse my work and reach out for collaborations or questions.
