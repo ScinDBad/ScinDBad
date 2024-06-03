@@ -46,10 +46,11 @@ I am a Data Analyst with a strong background in Electronics and Technical Educat
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIcRLAUc1AEd0t5yzZYBkv9umyKDad8EHeg&s" width="35" alt="Logo3" />
   </a>
   <br>
-  <strong>Data Analyst</strong><br>
+  <strong style="color: #ADD8E6;">Data Analyst</strong><br>
   Eng. Electronics and Telecommunications<br>
   MEd. Technical and Vocational Education Training
 </p>
+
 
 
 <p align="center">
