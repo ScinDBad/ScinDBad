@@ -1,10 +1,9 @@
 <h2 align="left">¡Hola! Soy Adrián 👋</h2>
 <p align="left">
-  Acompáñame a desentrañar historias ocultas en los datos. Creyente de que la información tiene el poder de transformar el mundo.
+  Join me in uncovering hidden stories within data!
 </p>
 
-Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica. Mi enfoque está en el análisis exploratorio, estadístico, visualización y Data Story Telling. Me apasiona transformar datos en información útil y accionable, especialmente para predecir hallazgos.
-
+I am a Data Analyst with a strong background in Electronic Engineering. My focus is on exploratory analysis, statistical analysis, visualization, and Data Storytelling. I am passionate about transforming data into useful and actionable information, especially for predicting insights.
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
