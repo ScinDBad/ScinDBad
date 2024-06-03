@@ -2,38 +2,27 @@
 <p align="left">
   Join me in uncovering hidden stories within data!
 </p>
-<!-- Badge Function -->
-{% assign badge = include.badge %}
-{% assign color = include.color %}
-{% assign logo = include.logo %}
-{% assign link = include.link %}
-
-<a href="{{ link }}">
-  <img src="https://img.shields.io/badge/{{ badge }}-{{ color }}?style=for-the-badge&logo={{ logo }}&logoColor=white" />
-</a>
-
-<!-- Example Usage -->
 <p align="center">
-  {% include badge.html badge="Python" color="3776AB" logo="Python" link="https://www.python.org/" %}
-  {% include badge.html badge="Tableau" color="E97627" logo="Tableau" link="https://www.tableau.com/" %}
-  {% include badge.html badge="SQL" color="003B57" logo="SQLite" link="https://www.sqlite.org/index.html" %}
-  {% include badge.html badge="MySQL" color="4479A1" logo="MySQL" link="https://www.mysql.com/" %}
-  {% include badge.html badge="VSCode" color="007ACC" logo="Visual-Studio-Code" link="https://code.visualstudio.com/" %}
-  {% include badge.html badge="Project IDX" color="00C4B3" logo="Google%20Cloud" link="https://cloud.google.com/solutions/digital-transformation/" %}
-  {% include badge.html badge="Pandas" color="150458" logo="pandas" link="https://pandas.pydata.org/" %}
-  {% include badge.html badge="NumPy" color="013243" logo="NumPy" link="https://numpy.org/" %}
-  {% include badge.html badge="Microsoft Office" color="D83B01" logo="Microsoft-Office" link="https://www.microsoft.com/en-us/microsoft-365" %}
-  {% include badge.html badge="SciPy" color="8CAAE6" logo="SciPy" link="https://www.scipy.org/" %}
-  {% include badge.html badge="Matplotlib" color="013243" logo="Matplotlib" link="https://matplotlib.org/" %}
-  {% include badge.html badge="Plotly" color="3F4F75" logo="plotly" link="https://plotly.com/" %}
-  {% include badge.html badge="Seaborn" color="013243" logo="Seaborn" link="https://seaborn.pydata.org/" %}
-  {% include badge.html badge="Scikit Learn" color="F7931E" logo="scikit-learn" link="https://scikit-learn.org/" %}
-  {% include badge.html badge="Arduino" color="00979D" logo="Arduino" link="https://www.arduino.cc/" %}
-  {% include badge.html badge="Anaconda" color="44A833" logo="Anaconda" link="https://www.anaconda.com/" %}
-  {% include badge.html badge="Jupyter" color="F37626" logo="Jupyter" link="https://jupyter.org/" %}
-  {% include badge.html badge="Google Colab" color="F9AB00" logo="Google%20Colab" link="https://colab.research.google.com/" %}
-  {% include badge.html badge="SciSpace" color="333333" logo="" link="#" %}
-  {% include badge.html badge="Bing Copilot" color="0044FF" logo="Bing" link="#" %}
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=SQLite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Project%20IDX-00C4B3?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft-Office&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-013243?style=for-the-badge&logo=Matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Seaborn-013243?style=for-the-badge&logo=Seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SciSpace-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Bing%20Copilot-0044FF?style=for-the-badge&logo=Bing&logoColor=white" />
 </p>
 
 
