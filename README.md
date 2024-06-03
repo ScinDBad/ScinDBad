@@ -2,11 +2,9 @@
 <p align="center">
   Acompáñame a desentrañar historias ocultas en los datos. Creyente firme en el poder de la información para transformar el mundo.
 </p>
-👨‍💻 Sobre Mí
 
 Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica. Mi enfoque está en el análisis exploratorio, estadístico, visualización y Data Story Telling. Me apasiona transformar datos en información útil y accionable, especialmente para predecir hallazgos.
 
-🛠️ Tecnologías y Herramientas
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
@@ -15,7 +13,7 @@ Soy un Analista de Datos con una sólida formación en Ingeniería Electrónica.
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Project%20IDX-00C4B3?style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
 </p>
-📚 Educación
+📚 Formación
 
 - Especialización en Análisis de Datos - [TripleTen](https://tripleten.com/)
 - Ingeniería en Electrónica y Telecomunicaciones - [ESPOL](https://www.espol.edu.ec/)
