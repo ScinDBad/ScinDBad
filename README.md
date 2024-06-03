@@ -32,7 +32,7 @@
 </p>
 
 
-I am a Data Analyst with a strong background in Electronics and Technical Education. Focused on exploratory analysis, Data Wrangling, statistics and Storytelling. I'm dedicated to turning data into useful insights, particularly for predictive purposes.
+I am a Data Analyst with a strong background in Electronics and Technical Education. __Focused on Exploratory Analysis, Data Wrangling, Statistics and Storytelling__. I'm dedicated to turning data into useful insights, particularly for predictive purposes.
 
 
 <p align="center">
