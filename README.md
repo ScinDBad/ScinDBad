@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Project%20IDX-8964E8?style=for-the-badge&logo=Google%20Cloud&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Project%20IDX-8964E8?style=for-the-badge&logo=Google%20Cloud&logoColor=gray" /> 
 
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   
