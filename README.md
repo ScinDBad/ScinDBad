@@ -62,6 +62,11 @@ Me destaco en el análisis exploratorio, limpieza, pruebas estadísticas y story
 
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ScinDBad&show_icons=true&theme=dracula&hide_title=true&hide_border=true&bg_color=0D1116&icon_color=CCCCCC" /><br>
+  No dudes en revisar mi trabajo y ponerte en contacto para colaboraciones o preguntas.
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ajvinuez/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ajvinuez/" style="height: 23px;" />
@@ -79,10 +84,5 @@ Me destaco en el análisis exploratorio, limpieza, pruebas estadísticas y story
     <img src="https://img.shields.io/badge/-REPOSITORIES-black?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/ScinDBad?tab=repositories" style="height: 23px;" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ScinDBad&show_icons=true&theme=dracula&hide_title=true&hide_border=true&bg_color=0D1116&icon_color=CCCCCC" /><br>
-  Feel free to browse my work and reach out for collaborations or questions.
-</div>
 
 
