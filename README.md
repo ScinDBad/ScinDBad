@@ -1,5 +1,5 @@
 <h1 align="left">Hola! soy Adrián</h1>
-<h1 align="left"><strong>Data Analyst & Electronics Engineer</strong></h1>
+<h2 align="left">Data Analyst & Electronics Engineer</h2>
 
 ![1717473247783](https://github.com/ScinDBad/ScinDBad/assets/153782475/e986cc85-d72c-4fd4-b68d-14b6281d22d8)
 
