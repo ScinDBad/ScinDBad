@@ -6,7 +6,7 @@
 ![1717473247783](https://github.com/ScinDBad/ScinDBad/assets/153782475/e986cc85-d72c-4fd4-b68d-14b6281d22d8)
 
 
-Soy ingeniro en electrónica y telecomunicaciones desde 2017.
+## Soy ingeniro en electrónica y telecomunicaciones desde 2017.
 
 He trabajado en la defensa naval como asistente de diseño electrónico y fui docente de electrónica en una preparatoria técnica. Siempre he tenido el ímpetu por enseñar y comunicar los hechos y sus detalles, por lo que me formé además como educador para la formación técnica y divulgación de conocimiento. 
 
