@@ -11,9 +11,8 @@
 Soy ingeniro en electrónica y telecomunicaciones desde 2017.
 
 He trabajado en la defensa naval como asistente de diseño electrónico y fui docente de electrónica en una preparatoria técnica. Siempre he tenido el ímpetu por enseñar y comunicar los hechos y sus detalles, por lo que en 2022 me formé además como educador para la formación técnica y divulgación de conocimiento. 
-Aprendí la metodología pero sabía que _<la comunicación sin datos son solo relatos>_, por lo que necesitaba los instrumentos y el sustento para lograrlo, así que encontré en la Data la conexión perfecta para complementar mi carrera tecnológica y pedagógica. 
 
-En 2023 decidí estudiar la carrera en Análisis de datos y ello me permitió desarrollar habilidades técnicas para convertir vestigios en hechos e historias reales. Resulta increíble como los datos obtenidos al procesarse pueden revelar información valiosa y accionable. 
+Aprendí la metodología pero sabía que _<la comunicación sin datos son solo relatos>_, por lo que necesitaba los instrumentos y el sustento para lograrlo, así que encontré en la Data la conexión perfecta para complementar mi carrera tecnológica y pedagógica, comenzando en 2023 a estudiar la carrera en Análisis de datos que me permitió desarrollar habilidades técnicas para convertir vestigios en hechos e historias reales. Resulta increíble como los datos obtenidos al procesarse pueden revelar información valiosa y accionable. 
 
 
 
