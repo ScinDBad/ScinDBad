@@ -10,7 +10,7 @@ Soy ingeniero en electrónica y telecomunicaciones desde 2017.
 
 He trabajado en la defensa naval como asistente de diseño electrónico y fui docente de electrónica en una preparatoria técnica. Siempre he tenido el ímpetu por enseñar y comunicar los hechos y sus detalles, por lo que en 2022 me formé además como educador para la formación técnica y divulgación de conocimiento. 
 
-Aprendí la metodología pero sabía que ___"la comunicación sin datos son solo relatos"___, por lo que necesitaba los instrumentos y el sustento para lograrlo, así que encontré en la Data la conexión perfecta para complementar mi carrera tecnológica y pedagógica, comenzando en 2023 a estudiar la carrera en Análisis de datos que me permitió desarrollar habilidades técnicas para convertir vestigios en hechos e historias reales:
+Aprendí la metodología pero sabía que ___"la comunicación sin datos son solo relatos"___, por lo que necesitaba los instrumentos y el sustento para lograrlo, así que encontré en la Data la conexión perfecta para complementar mis competencias tecnológicas y pedagógicas, comenzando en 2023 a estudiar la carrera en Análisis de datos que me permitió desarrollar habilidades técnicas para convertir vestigios en hechos e historias reales:
 
 
 <p align="center">
@@ -41,12 +41,7 @@ Aprendí la metodología pero sabía que ___"la comunicación sin datos son solo
   <img src="https://img.shields.io/badge/-Bing%20Copilot-075DD1?style=flat-square&logo=Bing&logoColor=white" />
 </p>
 
-Resulta increíble como los datos obtenidos al procesarse pueden revelar información valiosa y accionable. 
-
-
-
-
-I am a Data Analyst with a strong background in Electronics and Technical Education. __Focused on Exploratory Analysis, Data Wrangling, Statistics and Storytelling__. Dedicated to turning data into useful insights, particularly for predictive purposes.
+Mi enfoque radica en el análisis exploratorio, gestión de datos, pruebas estadísticas y storytelling, pues encuentro increíble cómo los datos obtenidos al procesarse pueden convertirse información valiosa y accionable, especialmente con propósitos predictivos.
 
 
 <p align="center">
