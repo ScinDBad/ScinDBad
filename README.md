@@ -44,6 +44,7 @@ Tenía la metodología, pero sabía que __"la comunicación sin datos son solo r
 Me destaco en el análisis exploratorio, limpieza, pruebas estadísticas y storytelling pues encuentro increíble cómo los datos al procesarse pueden volverse información valiosa y accionable, más aun para propósitos predictivos.
 
 
+
 <p align="center">
   <a href="https://tripleten.com/es-ecu/?from=us" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQhOxCbDgjJ74d_KCtNBNcje0EluubZntQQ&s" width="35" alt="Logo1" />
