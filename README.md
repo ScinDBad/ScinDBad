@@ -10,7 +10,7 @@ Soy ingeniero en electrónica y telecomunicaciones desde 2017.
 
 Trabajé en la defensa naval como asistente de diseño electrónico y fui docente de electrónica en un colegio técnico. __Siempre tuve el ímpetu de enseñar y divulgar los hechos a detalle__, así que en 2022 me formé como educador en formación técnica profesional, publicando un __artículo científico__ sobre __la IA en la enseñanza de Tecnología en Electricidad__: https://doi.org/10.33262/exploradordigital.v7i4.2778
 
-Aprendí la metodología pero sabía que ___"la comunicación sin datos son solo relatos"___, por lo que necesitaba el sustento y los instrumentos para lograrlo. __En 2023 decidí entonces estudiar Análisis de Datos__ ya que vi el complemento perfecto para conectar mis competencias tecnológicas y pedagógicas para convertir vestigios en hechos e historias reales con las siguientes __skills__:
+Aprendí la metodología, pero sabía que "la comunicación sin datos son solo relatos". En 2023, decidí estudiar Análisis de Datos para complementar mis competencias tecnológicas y pedagógicas, convirtiendo vestigios en hechos e historias reales con las siguientes habilidades:
 
 
 <p align="center">
