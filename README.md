@@ -41,7 +41,7 @@ Aprendí la metodología pero sabía que ___"la comunicación sin datos son solo
   <img src="https://img.shields.io/badge/-Bing%20Copilot-075DD1?style=flat-square&logo=Bing&logoColor=white" />
 </p>
 
-Mi enfoque radica en el análisis exploratorio, gestión de datos, pruebas estadísticas y storytelling, pues encuentro increíble cómo los datos obtenidos al procesarse pueden convertirse información valiosa y accionable, especialmente con propósitos predictivos.
+Me destaco en el análisis exploratorio, limpieza, pruebas estadísticas y storytelling, pues encuentro increíble cómo los datos al procesarse pueden volverse información valiosa y accionable, mucho más si es para propósitos predictivos.
 
 
 <p align="center">
