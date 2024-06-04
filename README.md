@@ -64,7 +64,7 @@ Me destaco en el análisis exploratorio, limpieza, pruebas estadísticas y story
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ScinDBad&show_icons=true&theme=dracula&hide_title=true&hide_border=true&bg_color=0D1116&icon_color=CCCCCC" /><br>
-  No dudes en revisar mi trabajo y contactarme para colaboraciones o preguntas.
+  Revisar mi trabajo y contactarme para colaboraciones o preguntas.
 </div>
 
 <p align="center">
