@@ -3,6 +3,16 @@
   Data Analyst & Electronics engineer
 </p>
 
+Soy ingeniro en electrónica y telecomunicaciones desde 2017.
+
+He trabajado en la defensa naval como asistente de diseño electrónico y fui docente de electrónica en una preparatoria técnica. Siempre he tenido el ímpetu por enseñar y comunicar los hechos y sus detalles, por lo que me formé además como educador para la formación técnica y divulgación de conocimiento. 
+
+En 2022 Aprendí la metodología pero sabía que _<la comunicación sin datos son solo relatos>_, por lo que necesitaba los instrumentos y el sustento para lograrlo, así que encontré en la Data la conexión perfecta para complementar mi carrera tecnológica y pedagógica. 
+
+En 2023 decidí estudiar la carrera en Análisis de datos y ello me permitió desarrollar habilidades técnicas para convertir vestigios en hechos e historias reales. Resulta increíble como los datos obtenidos al procesarse pueden revelar información valiosa y accionable. 
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/python-yellow?style=flat-square&logo=python" alt="python" />
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" />
@@ -31,13 +41,7 @@
   <img src="https://img.shields.io/badge/-Bing%20Copilot-075DD1?style=flat-square&logo=Bing&logoColor=white" />
 </p>
 
-Soy ingeniro en electrónica y telecomunicaciones desde 2017.
 
-He trabajado en la defensa naval como asistente de diseño electrónico y fui docente de electrónica en una preparatoria técnica. Siempre he tenido el ímpetu por enseñar y comunicar los hechos y sus detalles, por lo que me formé además como educador para la formación técnica de estudiantes. 
-
-Aprendí la metodología pero sabía que la _<comunicación sin datos son solo relatos>_, necesitaba los instrumentos y el sustento para lograrlo, así que encontré en la Data la conexión perfecta para complementar mi carrera tecnológica y pedagógica. 
-
-La carrera en Análisis de datos me permitió desarrollar habilidades técnicas para convertir vestigios en hechos e historias reales. Resulta increíble como los datos obtenidos al procesarse pueden revelar información valiosa y accionable
 
 
 I am a Data Analyst with a strong background in Electronics and Technical Education. __Focused on Exploratory Analysis, Data Wrangling, Statistics and Storytelling__. Dedicated to turning data into useful insights, particularly for predictive purposes.
