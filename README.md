@@ -1,6 +1,6 @@
 <h1 align="left">Hola! soy Adrián</h1>
 <p align="left">
-  Join me in uncovering hidden stories within data!
+  Data Analyst & Electronics engineer
 </p>
 
 <p align="center">
@@ -30,6 +30,14 @@
   <img src="https://img.shields.io/badge/-Blackbox-000000?style=flat-square&logo=Google&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bing%20Copilot-075DD1?style=flat-square&logo=Bing&logoColor=white" />
 </p>
+
+Soy ingeniro en electrónica y telecomunicaciones desde 2017.
+
+He trabajado en la defensa naval como asistente de diseño electrónico y fui docente de electrónica en una preparatoria técnica. Siempre he tenido el ímpetu por enseñar y comunicar los hechos y sus detalles, por lo que me formé además como educador para la formación técnica de estudiantes. 
+
+Aprendí la metodología pero sabía que la _<comunicación sin datos son solo relatos>_, necesitaba los instrumentos y el sustento para lograrlo, así que encontré en la Data la conexión perfecta para complementar mi carrera tecnológica y pedagógica. 
+
+La carrera en Análisis de datos me permitió desarrollar habilidades técnicas para convertir vestigios en hechos e historias reales. Resulta increíble como los datos obtenidos al procesarse pueden revelar información valiosa y accionable
 
 
 I am a Data Analyst with a strong background in Electronics and Technical Education. __Focused on Exploratory Analysis, Data Wrangling, Statistics and Storytelling__. Dedicated to turning data into useful insights, particularly for predictive purposes.
