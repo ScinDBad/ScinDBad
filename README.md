@@ -3,9 +3,7 @@
     Data Analyst & Electronics Engineer
 </p>
 
-
-![image](https://github.com/ScinDBad/ScinDBad/assets/153782475/209d580d-6a88-447c-8d9a-918b74bbf140)
-
+![gh_bgi_1](https://github.com/ScinDBad/ScinDBad/assets/153782475/0770a0f5-ea33-4bee-80b1-f960a8397067)
 
 
 Soy ingeniero en electrónica y telecomunicaciones desde 2017.
