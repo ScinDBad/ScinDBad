@@ -41,7 +41,7 @@ Tenía la metodología, pero sabía que __"la comunicación sin datos son solo r
   <img src="https://img.shields.io/badge/-Bing%20Copilot-075DD1?style=flat-square&logo=Bing&logoColor=white" />
 </p>
 
-Me destaco en el análisis exploratorio, limpieza, pruebas estadísticas y storytelling pues encuentro increíble cómo los datos al procesarse pueden volverse información valiosa y accionable, mucho más si es para propósitos predictivos.
+Me destaco en el análisis exploratorio, limpieza, pruebas estadísticas y storytelling pues encuentro increíble cómo los datos al procesarse pueden volverse información valiosa y accionable, más aun para propósitos predictivos.
 
 
 <p align="center">
@@ -64,7 +64,7 @@ Me destaco en el análisis exploratorio, limpieza, pruebas estadísticas y story
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ScinDBad&show_icons=true&theme=dracula&hide_title=true&hide_border=true&bg_color=0D1116&icon_color=CCCCCC" /><br>
-  Revisar mi trabajo y contactarme para colaboraciones o preguntas.
+  Revisar mi trabajo y contactarme para colaboraciones o preguntas.<br>
 </div>
 
 <p align="center">
