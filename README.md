@@ -68,6 +68,11 @@ Me destaco en el análisis exploratorio, limpieza, pruebas estadísticas y story
 </div>
 
 <p align="center">
+
+  <a href="https://github.com/ScinDBad?tab=repositories">
+    <img src="https://img.shields.io/badge/-REPOS-black?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/ScinDBad?tab=repositories" style="height: 23px;" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/ajvinuez/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ajvinuez/" style="height: 23px;" />
   </a>
@@ -80,9 +85,6 @@ Me destaco en el análisis exploratorio, limpieza, pruebas estadísticas y story
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianvinueza" style="height: 23px;" />
   </a>
   
-  <a href="https://github.com/ScinDBad?tab=repositories">
-    <img src="https://img.shields.io/badge/-REPOSITORIES-black?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/ScinDBad?tab=repositories" style="height: 23px;" />
-  </a>
 </p>
 
 
