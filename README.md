@@ -1,5 +1,5 @@
 <h1 align="left">Hola! soy Adrián</h1>
-<p align="left" style="font-size: 24px; font-weight: bold;">
+<p align="left" style="font-size: 30px; font-weight: bold;">
     Data Analyst & Electronics Engineer
 </p>
 
