@@ -41,7 +41,7 @@ Tenía la metodología, pero sabía que __"la comunicación sin datos son solo r
   <img src="https://img.shields.io/badge/-Bing%20Copilot-075DD1?style=flat-square&logo=Bing&logoColor=white" />
 </p>
 
-Me destaco en el análisis exploratorio, limpieza, pruebas estadísticas y storytelling pues encuentro increíble cómo los datos al procesarse pueden volverse información valiosa y accionable, más aun para propósitos predictivos.
+Me enfoco en el análisis exploratorio, limpieza, tests estadísticos y storytelling pues encuentro increíble cómo los datos se convierten en información valiosa y accionable, más aun para propósitos predictivos.
 
 
 
