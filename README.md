@@ -4,7 +4,8 @@
 </p>
 
 
-![image](https://github.com/ScinDBad/ScinDBad/assets/153782475/7cc3c404-ce5b-4745-8c5a-8fd3a583e7a8)
+![image](https://github.com/ScinDBad/ScinDBad/assets/153782475/209d580d-6a88-447c-8d9a-918b74bbf140)
+
 
 
 Soy ingeniro en electrónica y telecomunicaciones desde 2017.
