@@ -8,7 +8,7 @@
 
 Soy ingeniero en electrónica y telecomunicaciones desde 2017.
 
-He trabajado en la defensa naval como asistente de diseño electrónico y fui docente de electrónica en una preparatoria técnica. Siempre tuve el ímpetu de enseñar y comunicar los hechos a detalle, por lo que en 2022 me formé como educador para la formación técnica y divulgación de conocimiento, publicando un __artículo científico__ sobre __la IA en la enseñanza de Tecnología en Electricidad__: https://doi.org/10.33262/exploradordigital.v7i4.2778
+Trabajé en la defensa naval como asistente de diseño electrónico y luego fui docente de electrónica en una preparatoria técnica. Siempre tuve el ímpetu de enseñar y comunicar los hechos a detalle, por lo que en 2022 me formé como educador para la formación técnica profesional, publicando un __artículo científico__ sobre __la IA en la enseñanza de Tecnología en Electricidad__: https://doi.org/10.33262/exploradordigital.v7i4.2778
 
 Aprendí la metodología pero sabía que ___"la comunicación sin datos son solo relatos"___, por lo que necesitaba los instrumentos y el sustento para lograrlo, así que encontré en la Data la conexión perfecta para complementar mis competencias tecnológicas y pedagógicas, comenzando en 2023 a estudiar la carrera en Análisis de datos que me permitió desarrollar habilidades técnicas para convertir vestigios en hechos e historias reales:
 
