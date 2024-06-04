@@ -1,7 +1,10 @@
 <h1 align="left">Hola! soy Adrián</h1>
 <p align="left">
-  Data Analyst & Electronics engineer
+   <strong>Data Analyst & Electronics engineer</strong>
 </p>
+
+![1717473247783](https://github.com/ScinDBad/ScinDBad/assets/153782475/e986cc85-d72c-4fd4-b68d-14b6281d22d8)
+
 
 Soy ingeniro en electrónica y telecomunicaciones desde 2017.
 
