@@ -89,11 +89,7 @@ Me enfoco en el análisis exploratorio, limpieza, tests estadísticos y storytel
   </a><br>
 
   <a href="https://app.daily.dev/ajvinuez">
-    <img src="https://api.daily.dev/devcards/v2/Vk0fwPPqQSxPQzHorDSd0.png?type=default&r=2ch" width="356" alt="Adrián Vinueza's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/Vk0fwPPqQSxPQzHorDSd0.png?type=wide&r=2ch" width="652" alt="Adrián Vinueza's Dev Card"/>
   </a>
 
 </p>
-
-
-
-
