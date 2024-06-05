@@ -34,7 +34,7 @@ Tenía la metodología, pero sabía que __"la comunicación sin datos son solo r
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Project%20IDX-8964E8?style=flat-square&logo=Google%20Cloud&logoColor=white" /> 
 
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" /> -->
   
   <img src="https://img.shields.io/badge/-SciSpace-FFFFFF?style=flat-square&logoColor=black&labelColor=FF4500" /> 
   <img src="https://img.shields.io/badge/-Blackbox-000000?style=flat-square&logo=Google&logoColor=white" />
@@ -65,7 +65,7 @@ Me enfoco en el análisis exploratorio, limpieza, tests estadísticos y storytel
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ScinDBad&show_icons=true&theme=dracula&hide_title=true&hide_border=true&bg_color=0D1116&icon_color=CCCCCC" /><br>
-  Revisar mi trabajo y contactarme para colaboraciones o preguntas.
+  Revisa mi trabajo y contactarme para colaboraciones o preguntas.
     
 </div>
 
