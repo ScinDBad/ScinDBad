@@ -88,6 +88,7 @@ Me enfoco en el análisis exploratorio, limpieza, tests estadísticos y storytel
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianvinueza" style="height: 23px;" />
   </a>
 
+
   <a href="https://app.daily.dev/ajvinuez">
     <img src="https://api.daily.dev/devcards/v2/Vk0fwPPqQSxPQzHorDSd0.png?type=default&r=2ch" width="356" alt="Adrián Vinueza's Dev Card"/>
   </a>
