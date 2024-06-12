@@ -41,7 +41,9 @@ Tenía la metodología, pero sabía que __"la comunicación sin datos son solo r
   <img src="https://img.shields.io/badge/-Bing%20Copilot-075DD1?style=flat-square&logo=Bing&logoColor=white" />
 </p>
 
-Me enfoco en el análisis exploratorio, limpieza, tests estadísticos y storytelling para convertir los datos en información valiosa y accionable, más aun para propósitos predictivos. __Mis principales proyectos son:__
+Me enfoco en el análisis exploratorio, limpieza, tests estadísticos y storytelling para convertir los datos en información valiosa y accionable, más aun para propósitos predictivos. 
+
+__Mis principales proyectos son:__
 
 - [Predicción de Cancelación de membresías en centro deportivo](https://github.com/ScinDBad/churn_prediction_fitness) 
 - [Cuantificación de Eficacia y rendimiento de operadores de un contact center](https://github.com/ScinDBad/DA_proyecto_final/tree/main/Telecom)
