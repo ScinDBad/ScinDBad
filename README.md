@@ -41,9 +41,13 @@ Tenía la metodología, pero sabía que __"la comunicación sin datos son solo r
   <img src="https://img.shields.io/badge/-Bing%20Copilot-075DD1?style=flat-square&logo=Bing&logoColor=white" />
 </p>
 
-Me enfoco en el análisis exploratorio, limpieza, tests estadísticos y storytelling para convertir los datos en información valiosa y accionable, más aun para propósitos predictivos.
+Me enfoco en el análisis exploratorio, limpieza, tests estadísticos y storytelling para convertir los datos en información valiosa y accionable, más aun para propósitos predictivos. __Mis principales proyectos son:__
 
-
+- [Predicción de Cancelación de membresías en centro deportivo](https://github.com/ScinDBad/churn_prediction_fitness) 
+- [Cuantificación de Eficacia y rendimiento de operadores de un contact center](https://github.com/ScinDBad/DA_proyecto_final/tree/main/Telecom)
+- [Evaluación estadística de sistema recomendador de compras en línea con A/B test](https://github.com/ScinDBad/DA_proyecto_final/tree/main/AB_test)
+- [Análisis Exploratorio de Base de Datos de Repositorio de libros digitales](https://github.com/ScinDBad/DA_proyecto_final/tree/main/sql_bookdata)
+- [Estudio Estadístico de Patrones de Éxito de plataformas de videojuegos](https://github.com/ScinDBad/gamEda)
 
 <p align="center">
   <a href="https://tripleten.com/es-ecu/?from=us" target="_blank">
