@@ -95,7 +95,7 @@ __Mis principales proyectos son:__
   </a><br><br>
 
   <a href="https://app.daily.dev/ajvinuez">
-      <img src="https://api.daily.dev/devcards/v2/Vk0fwPPqQSxPQzHorDSd0.png?type=wide&r=mv6" width="652" alt="Adrián Vinueza's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/Vk0fwPPqQSxPQzHorDSd0.png?type=wide&r=chd" width="652" alt="Adrián Vinueza's Dev Card"/>
   </a>
 
 </p>
