@@ -92,7 +92,7 @@ __Mis principales proyectos son:__
 
   <a href="https://www.kaggle.com/adrianvinueza">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianvinueza" style="height: 23px;" />
-  </a><br>
+  </a><br><br>
 
   <a href="https://app.daily.dev/ajvinuez">
       <img src="https://api.daily.dev/devcards/v2/Vk0fwPPqQSxPQzHorDSd0.png?type=wide&r=mv6" width="652" alt="Adrián Vinueza's Dev Card"/>
