@@ -79,20 +79,27 @@ __Mis principales proyectos son:__
 <p align="center">
 
   <a href="https://github.com/ScinDBad?tab=repositories">
-    <img src="https://img.shields.io/badge/-REPOS-black?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/ScinDBad?tab=repositories" style="height: 23px;" />
+    <img src="https://img.shields.io/badge/-REPOS-black?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/ScinDBad?tab=repositories" style="height: 26px;" />
   </a>
   
   <a href="https://www.linkedin.com/in/ajvinuez/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ajvinuez/" style="height: 23px;" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ajvinuez/" style="height: 26px;" />
   </a>
   
   <a href="mailto:ajvinuez@outlook.com">
-    <img src="https://img.shields.io/badge/-Outlook-FFFFFF?style=for-the-badge&logo=Microsoft-Outlook&logoColor=0078D4&link=mailto:ajvinuez@outlook.com" style="height: 23px;" />
+    <img src="https://img.shields.io/badge/-Outlook-FFFFFF?style=for-the-badge&logo=Microsoft-Outlook&logoColor=0078D4&link=mailto:ajvinuez@outlook.com" style="height: 26px;" />
   </a>
 
   <a href="https://www.kaggle.com/adrianvinueza">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianvinueza" style="height: 23px;" />
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/adrianvinueza" style="height: 26px;" />
+  </a><br>
+  
+  <a href="https://calendly.com/ajvinueza92/30min">
+    <img src="https://img.shields.io/badge/-Schedule%20a%20Meeting-blue?style=for-the-badge&logo=Calendly&logoColor=white&link=https://calendly.com/ajvinueza92/30min" style="height: 30px;" />
   </a><br><br>
+
+
+
 
   <a href="https://app.daily.dev/ajvinuez">
     <img src="https://api.daily.dev/devcards/v2/Vk0fwPPqQSxPQzHorDSd0.png?type=wide&r=chd" width="652" alt="Adrián Vinueza's Dev Card"/>
